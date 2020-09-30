@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/5_exosection4.iml" filepath="$PROJECT_DIR$/.idea/5_exosection4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MegaBytesConverter/MegaBytesConverter.iml" filepath="$PROJECT_DIR$/MegaBytesConverter/MegaBytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" />
+    </modules>
+  </component>
+</project>
