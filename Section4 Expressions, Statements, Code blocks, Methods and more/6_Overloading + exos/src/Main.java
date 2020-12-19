@@ -6,10 +6,10 @@ public class Main {
 //        System.out.println(SecondsAndMinutesChallenge.getDurationString(4520320));
 //        System.out.println(SecondsAndMinutesChallenge.getDurationString(60,59));
 //        System.out.println(AreaCalculator.area(5));
-//        System.out.println(AreaCalculator.area(5,5));
-// MinutesToYearsDaysCalculator.printYearsAndDays(1440);
+  //    System.out.println(AreaCalculator.area(5,5));
+ MinutesToYearsDaysCalculator.printYearsAndDays(140040);
 // IntEqualityPrinter.printEqual(1,2,3);
 //        IntEqualityPrinter.printEqual(1,1,-1);
-        System.out.println(PlayingCat.isCatPlaying(false,29));
+//        System.out.println(PlayingCat.isCatPlaying(false,29));
     }
 }
