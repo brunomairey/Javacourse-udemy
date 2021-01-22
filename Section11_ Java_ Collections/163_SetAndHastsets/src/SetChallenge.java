@@ -1,0 +1,2 @@
+public class SetChallenge {
+}
